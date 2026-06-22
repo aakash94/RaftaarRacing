@@ -22,3 +22,6 @@ docs/superpowers/
 
 # Python tooling cache
 .ruff_cache/
+
+# Local dev tooling (preview server config) — not for the kids
+.claude/
