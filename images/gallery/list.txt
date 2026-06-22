@@ -1,0 +1,5 @@
+# PHOTO GALLERY LIST
+# Put your photo files in this folder (images/gallery), then add ONE line
+# here with each file's name. Lines starting with # are ignored.
+# Example:
+# race-day.jpg

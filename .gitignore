@@ -19,3 +19,6 @@ Gemfile.lock
 
 # Developer-only planning docs (not for the kids who maintain the site)
 docs/superpowers/
+
+# Python tooling cache
+.ruff_cache/
